@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T20:29:16.250Z,38.7856674,-122.7596664,1.41,0.34,md,11,77,0.01494,0.04,nc,nc73705131,2022-03-13T20:39:11.352Z,"1km NNW of The Geysers, CA",earthquake,0.3,0.75,0.01,2,automatic,nc,nc
+2022-03-13T20:43:10.106Z,36.653,-117.1136,2.5,1.2,ml,10,306.81,0.132,0.3586,nn,nn00835290,2022-03-13T20:46:30.702Z,"32 km NW of Furnace Creek, California",earthquake,,1.4,0.91,7,automatic,nn,nn
+2022-03-13T20:30:10.980Z,-29.8828,-13.8672,10,5.3,mb,,77,15.739,1.12,us,us6000h489,2022-03-13T20:46:44.040Z,"southern Mid-Atlantic Ridge",earthquake,11.6,1.9,0.08,53,reviewed,us,us
+2022-03-13T20:29:16.250Z,38.7856674,-122.7596664,1.41,0.34,md,11,77,0.01494,0.04,nc,nc73705131,2022-03-13T20:47:23.272Z,"1km NNW of The Geysers, CA",earthquake,0.3,0.75,0.01,2,automatic,nc,nc
 2022-03-13T20:27:08.071Z,62.8055,-148.8743,51,3.1,ml,,,,0.62,ak,ak0223bergkc,2022-03-13T20:37:43.125Z,"65 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-13T20:14:44.670Z,33.975,-116.9763333,18.39,1.15,ml,21,110,0.07969,0.2,ci,ci40206880,2022-03-13T20:18:21.983Z,"5km N of Beaumont, CA",earthquake,0.37,0.77,0.143,30,automatic,ci,ci
 2022-03-13T20:05:32.259Z,51.5491,-175.2238,17.09,4.1,mb,,188,0.753,1,us,us6000h484,2022-03-13T20:20:43.040Z,"100 km SW of Atka, Alaska",earthquake,5.3,8.4,0.083,40,reviewed,us,us
