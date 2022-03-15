@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-15T07:30:31.950Z,19.2406673431396,-155.385162353516,32.3600006103516,3.33999991,md,50,142,,0.129999995,hv,hv72950682,2022-03-15T07:34:20.118Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.47,0.550000012,2.29999995,44,automatic,hv,hv
-2022-03-15T07:25:07.872Z,59.8082,-152.9888,100.8,1.8,ml,,,,0.55,ak,ak0223ei33a2,2022-03-15T07:35:42.607Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-15T07:21:03.899Z,64.844,-148.9375,3,1.5,ml,,,,0.76,ak,ak0223ei2840,2022-03-15T07:35:29.173Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-15T07:45:35.692Z,60.8562,-150.9772,13.4,1.5,ml,,,,0.58,ak,ak0223ei7fr5,2022-03-15T07:47:28.614Z,"17 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-15T07:43:52.210Z,19.2216663360596,-155.418334960938,34.9500007629395,2.28999996,md,47,137,,0.119999997,hv,hv72950702,2022-03-15T07:47:13.840Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.45,0.649999976,0.360000014,33,automatic,hv,hv
+2022-03-15T07:43:29.569Z,61.3664,-150.0269,37.7,1.1,ml,,,,0.48,ak,ak0223ei6zuk,2022-03-15T07:45:47.120Z,"2 km WNW of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-15T07:30:31.950Z,19.2406673431396,-155.385162353516,32.3600006103516,2.74,ml,50,142,,0.129999995,hv,hv72950682,2022-03-15T07:41:29.362Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.47,0.550000012,3.72,35,automatic,hv,hv
+2022-03-15T07:25:07.619Z,59.8126,-153.0033,102.9,1.8,ml,,,,0.5,ak,ak0223ei33a2,2022-03-15T07:37:25.927Z,"61 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-15T07:21:03.899Z,64.844,-148.9375,3,1.5,ml,,,,0.76,ak,ak0223ei2840,2022-03-15T07:37:12.347Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-15T07:18:18.457Z,60.8748,-150.9724,7.6,1.6,ml,,,,0.8,ak,ak0223ei1m39,2022-03-15T07:33:14.213Z,"16 km WSW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-15T07:13:55.716Z,60.8572,-150.9589,20.1,1.4,ml,,,,0.33,ak,ak0223ei0mdv,2022-03-15T07:26:57.267Z,"16 km WSW of Point Possession, Alaska",earthquake,,17.4,,,automatic,ak,ak
 2022-03-15T07:12:02.160Z,38.7948341,-122.8044968,2.99,1.17,md,7,98,0.006594,0.02,nc,nc73705826,2022-03-15T07:28:13.088Z,"5km WNW of The Geysers, CA",earthquake,1.68,2.91,,1,automatic,nc,nc
@@ -11,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T06:34:37.240Z,36.8860016,-121.6366653,6.03,0.96,md,11,93,0.03587,0.19,nc,nc73705816,2022-03-15T07:03:13.958Z,"1km ESE of Aromas, CA",earthquake,0.6,1.32,0.17,8,automatic,nc,nc
 2022-03-15T06:23:01.420Z,19.2386665344238,-155.385498046875,32.7900009155273,2.00999999,md,42,144,,0.159999996,hv,hv72950642,2022-03-15T06:26:16.990Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.720000029,1.05999994,20,automatic,hv,hv
 2022-03-15T06:07:24.330Z,38.8250008,-122.796669,2.43,1.3,md,29,50,0.01059,0.03,nc,nc73705811,2022-03-15T06:40:12.831Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.38,0.11,5,automatic,nc,nc
-2022-03-15T06:03:00.670Z,38.8241653,-122.7958298,2.66,1.68,md,35,32,0.01115,0.02,nc,nc73705801,2022-03-15T06:19:12.719Z,"6km NNW of The Geysers, CA",earthquake,0.2,0.35,0.1,10,automatic,nc,nc
+2022-03-15T06:03:00.670Z,38.8241653,-122.7958298,2.66,1.68,md,35,32,0.01115,0.02,nc,nc73705801,2022-03-15T07:36:10.133Z,"6km NNW of The Geysers, CA",earthquake,0.2,0.35,0.1,10,automatic,nc,nc
 2022-03-15T05:55:54.507Z,31.71133258,-104.2770224,7.622631836000001,1.9,ml,12,57,0.04111907972,0.2,tx,tx2022fdvm,2022-03-15T07:10:19.015Z,"52 km S of Whites City, New Mexico",earthquake,0.9780972007,0.8113844472000001,0.2,6,reviewed,tx,tx
 2022-03-15T05:42:50.730Z,34.0713333,-117.281,13.63,1.08,ml,33,74,0.1104,0.18,ci,ci40208104,2022-03-15T05:46:27.659Z,"3km E of Colton, CA",earthquake,0.28,0.72,0.203,29,automatic,ci,ci
 2022-03-15T05:40:18.545Z,61.0297,-149.8307,17.6,2.8,ml,,,,0.8,ak,ak0223egzgp8,2022-03-15T06:33:32.765Z,"16 km NW of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -272,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T08:08:01.840Z,33.0488333,-116.215,7.68,1.08,ml,39,70,0.1137,0.19,ci,ci40207256,2022-03-14T21:39:37.870Z,"13km SW of Ocotillo Wells, CA",earthquake,0.2,0.64,0.142,14,reviewed,ci,ci
 2022-03-14T08:04:22.520Z,33.0545,-116.2091667,8.96,0.91,ml,30,71,0.1067,0.19,ci,ci40207248,2022-03-14T21:15:53.586Z,"12km SW of Ocotillo Wells, CA",earthquake,0.26,0.7,0.133,14,reviewed,ci,ci
 2022-03-14T07:51:16.310Z,33.0546667,-116.2138333,9,0.84,ml,21,70,0.1079,0.14,ci,ci40207240,2022-03-14T21:06:44.767Z,"12km SW of Ocotillo Wells, CA",earthquake,0.21,0.82,0.166,9,reviewed,ci,ci
-2022-03-14T07:38:23.859Z,63.4998,-148.0079,16.4,1.4,ml,,,,0.19,ak,ak0223cumkc1,2022-03-14T07:39:56.890Z,"48 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
