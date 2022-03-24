@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T08:57:24.994Z,38.4941,-118.3286,0,2,ml,20,90.8,0.056,0.1694,nn,nn00835824,2022-03-23T16:18:57.141Z,"22 km WNW of Mina, Nevada",earthquake,,3.1,0.29,9,reviewed,nn,nn
 2022-03-23T08:53:16.620Z,36.2343333,-89.4191667,7.95,1.25,md,12,62,0.004242,0.03,nm,nm60378172,2022-03-23T17:40:03.020Z,"6 km ESE of Ridgely, Tennessee",earthquake,0.32,0.86,0.077,10,reviewed,nm,nm
 2022-03-23T08:50:08.770Z,19.234167098999,-155.431838989258,27.8400001525879,1.74000001,md,12,195,,0.0900000036,hv,hv72959797,2022-03-23T08:53:18.580Z,"6 km NE of Pāhala, Hawaii",earthquake,1,1.55999994,0.689999998,3,automatic,hv,hv
-2022-03-23T08:32:24.787Z,38.8953,-119.6545,0,0.5,ml,4,229.98,0.035,0.1425,nn,nn00835864,2022-03-24T02:38:25.460Z,"3 km NNW of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
