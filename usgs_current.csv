@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T15:07:30.878Z,19.667,-157.5172,16.23,3.5,ml,,208,1.413,0.86,us,us7000gxi3,2022-03-27T00:08:20.000Z,"142 km SSW of Lanai City, Hawaii",earthquake,6.1,7.8,0.048,56,reviewed,us,us
 2022-03-26T14:58:53.800Z,33.9813333,-116.5453333,10.91,2.36,ml,69,46,0.05274,0.17,ci,ci39979047,2022-03-26T15:09:57.430Z,"5km WNW of Desert Hot Springs, CA",earthquake,0.18,0.41,0.154,25,automatic,ci,ci
 2022-03-26T14:54:39.152Z,52.1164,179.7036,176.1,2.9,ml,,,,0.47,ak,ak0223wtc8rh,2022-03-26T17:04:05.114Z,"252 km W of Adak, Alaska",earthquake,,6.5,,,reviewed,ak,ak
-2022-03-26T14:23:15.520Z,38.7915001,-122.7689972,3.04,0.85,md,7,115,0.01165,0.01,nc,nc73710616,2022-03-26T14:49:14.291Z,"2km NW of The Geysers, CA",earthquake,0.84,1.35,,1,automatic,nc,nc
-2022-03-26T14:21:36.560Z,38.7925,-122.7638333,2.79,1.94,md,69,42,0.008729,0.05,nc,nc73710611,2022-03-26T21:05:16.559Z,"2km NNW of The Geysers, CA",earthquake,0.12,0.21,0.169,38,reviewed,nc,nc
