@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-03T09:36:18.081Z,35.39652252,-97.88491058,0.921623826,2.33,ml,55,76.4549408,0.02602038532,0.8084603308,ok,ok2022gmvh,2022-04-03T09:38:27.820Z,"5 km E of Union City, Oklahoma",earthquake,1.575993599,1.400021604,,43,automatic,ok,ok
+2022-04-03T09:32:35.950Z,38.8156662,-122.8238297,-0.62,0.36,md,7,167,0.007971,0.24,nc,nc73713676,2022-04-03T09:34:11.696Z,"7km NW of The Geysers, CA",earthquake,1.28,2.37,,1,automatic,nc,nc
+2022-04-03T09:23:43.340Z,38.7809982,-122.7331696,2.32,0.67,md,7,133,0.003566,0.01,nc,nc73713671,2022-04-03T09:25:17.311Z,"2km ENE of The Geysers, CA",earthquake,0.45,1.31,0.16,2,automatic,nc,nc
 2022-04-03T09:10:38.850Z,36.1055,-117.8855,3.72,1.43,ml,15,62,0.02758,0.11,ci,ci39985111,2022-04-03T09:14:17.410Z,"9km NE of Coso Junction, CA",earthquake,0.21,0.34,0.311,17,automatic,ci,ci
 2022-04-03T09:08:02.260Z,33.384,-116.9645,6.57,0.73,ml,19,48,0.05655,0.21,ci,ci39985103,2022-04-03T09:11:40.871Z,"10km WNW of Palomar Observatory, CA",earthquake,0.37,0.98,0.069,20,automatic,ci,ci
 2022-04-03T09:01:56.050Z,36.1031667,-117.8826667,3.34,0.86,ml,8,230,0.02672,0.15,ci,ci39985095,2022-04-03T09:05:24.366Z,"9km NE of Coso Junction, CA",earthquake,0.71,0.53,0.08,5,automatic,ci,ci
@@ -148,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T16:35:30.640Z,38.8388329,-122.802002,1.28,0.36,md,7,112,0.009114,0.01,nc,nc73713421,2022-04-02T18:04:15.770Z,"7km WNW of Cobb, CA",earthquake,0.44,1.41,,1,automatic,nc,nc
 2022-04-02T16:21:50.210Z,33.7031667,-116.716,17.4,0.76,ml,23,69,0.008125,0.21,ci,ci39984591,2022-04-02T16:25:26.455Z,"4km S of Idyllwild, CA",earthquake,0.46,0.6,0.156,17,automatic,ci,ci
 2022-04-02T16:11:07.900Z,18.8523330688477,-155.130661010742,14.1800003051758,1.94000006,md,41,281,,0.200000003,hv,hv72971272,2022-04-02T16:14:34.530Z,"52 km ESE of Naalehu, Hawaii",earthquake,3.78,5.26000023,1.66999996,10,automatic,hv,hv
-2022-04-02T16:10:36.110Z,36.8549995,-121.5551682,3.99,1.55,md,7,143,0.04166,0.04,nc,nc73713416,2022-04-02T17:37:13.711Z,"2km NW of San Juan Bautista, CA",earthquake,0.57,1.21,0.06,7,automatic,nc,nc
+2022-04-02T16:10:36.000Z,36.8528333,-121.5521667,6.36,1.33,md,24,73,0.03242,0.08,nc,nc73713416,2022-04-03T09:37:48.668Z,"2km WNW of San Juan Bautista, CA",earthquake,0.28,0.45,0.206,17,reviewed,nc,nc
 2022-04-02T16:08:11.390Z,17.972,-66.9253333333333,12.27,2.43,md,6,184,,0.07,pr,pr71343088,2022-04-02T20:17:12.110Z,"1 km W of Guánica, Puerto Rico",earthquake,0.54,0.3,0.156852642150339,3,reviewed,pr,pr
 2022-04-02T15:58:47.751Z,38.1892,-117.7801,3.9,2.1,ml,22,112.63,0.126,0.3151,nn,nn00836581,2022-04-02T16:02:27.461Z,"36 km SE of Mina, Nevada",earthquake,,1,0.19,14,automatic,nn,nn
 2022-04-02T15:52:11.627Z,52.2173,-172.9766,79.35,3.2,ml,,190,0.672,0.31,us,us7000gz98,2022-04-02T21:25:05.040Z,"83 km E of Atka, Alaska",earthquake,12.9,14.8,0.115,10,reviewed,us,us
@@ -189,6 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T11:24:12.667Z,31.02,139.8282,174.5,4.4,mb,,95,2.089,0.67,us,us7000gz7d,2022-04-02T11:50:37.040Z,"Izu Islands, Japan region",earthquake,7.9,7,0.066,67,reviewed,us,us
 2022-04-02T11:22:01.896Z,55.601,164.8474,34.09,4.6,mb,,94,4.453,0.5,us,us7000gz7f,2022-04-02T12:03:35.040Z,"163 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.4,5.3,0.04,189,reviewed,us,us
 2022-04-02T11:16:45.681Z,31.7177,131.7496,45.22,4.7,mb,,101,1.125,0.58,us,us7000gz7b,2022-04-02T11:37:57.040Z,"38 km SE of Miyazaki, Japan",earthquake,6.2,7.3,0.058,91,reviewed,us,us
+2022-04-02T11:15:19.210Z,36.654,-121.2813333,3.44,1.07,md,25,105,0.05072,0.08,nc,nc73713341,2022-04-03T09:34:18.246Z,"16km SSE of Tres Pinos, CA",earthquake,0.19,0.66,0.303,20,reviewed,nc,nc
 2022-04-02T10:54:43.070Z,35.881,-117.6916667,9.7,0.59,ml,9,84,0.0747,0.06,ci,ci39984375,2022-04-02T10:58:19.277Z,"20km ESE of Little Lake, CA",earthquake,0.22,0.63,0.075,5,automatic,ci,ci
 2022-04-02T10:45:57.698Z,-22.6471,170.5185,10,5.5,mww,,42,2.838,0.91,us,us7000gz79,2022-04-02T18:33:16.834Z,"298 km ESE of Tadine, New Caledonia",earthquake,7.2,1.8,0.068,21,reviewed,us,us
 2022-04-02T10:45:33.918Z,62.543,-149.1858,15.1,1.3,ml,,,,0.6,ak,ak02248bnzbj,2022-04-02T10:48:01.566Z,"48 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
