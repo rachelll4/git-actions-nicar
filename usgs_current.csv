@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-04T09:22:19.538Z,61.1645,-150.7988,21.7,1.3,ml,,,,0.46,ak,ak0224bm0a4h,2022-04-04T09:24:48.679Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-04T09:40:58.588Z,38.0492,-117.8893,8.7,1.4,ml,12,148.7,0.168,0.3779,nn,nn00836657,2022-04-04T09:44:49.452Z,"39 km NW of Silver Peak, Nevada",earthquake,,0.9,0.75,7,automatic,nn,nn
+2022-04-04T09:35:21.949Z,63.359,-145.4423,7.2,1.4,ml,,,,0.53,ak,ak0224bm32mg,2022-04-04T09:40:32.273Z,"31 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-04T09:22:19.538Z,61.1645,-150.7988,21.7,1.3,ml,,,,0.46,ak,ak0224bm0a4h,2022-04-04T09:39:05.066Z,"15 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T09:08:11.617Z,61.9568,-150.3739,40.7,1.5,ml,,,,0.67,ak,ak0224blx9ho,2022-04-04T09:14:48.154Z,"29 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-04T08:51:30.306Z,37.9878,-117.915,0.6,1.2,ml,14,150.62,0.034,0.2726,nn,nn00836654,2022-04-04T08:55:08.988Z,"35 km NW of Silver Peak, Nevada",earthquake,,0.3,0.41,8,automatic,nn,nn
 2022-04-04T08:41:16.660Z,33.544,-115.8946667,3.27,2.03,ml,47,55,0.04427,0.18,ci,ci39985711,2022-04-04T08:52:11.130Z,"4km ENE of North Shore, CA",earthquake,0.24,0.42,0.104,26,automatic,ci,ci
@@ -210,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T09:54:14.495Z,58.2182,-155.1711,36.4,0.9,ml,,,,0.51,ak,ak02249yns5l,2022-04-03T10:18:43.734Z,"83 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-03T09:51:30.520Z,35.0381667,-116.9765,2.01,3.62,mw,47,37,0.1633,0.11,ci,ci39985119,2022-04-04T07:42:52.566Z,"16km NNE of Barstow, CA",earthquake,0.1,0.45,,6,reviewed,ci,ci
 2022-04-03T09:50:30.495Z,58.2303,-155.1384,38.3,0.1,ml,,,,0.27,ak,ak02249ymyix,2022-04-03T20:58:15.630Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-04-03T09:46:41.793Z,62.7912,-148.4051,64.9,1.1,ml,,,,0.19,ak,ak02249ym4if,2022-04-03T09:48:47.449Z,"72 km SSE of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-03T09:43:47.271Z,62.2087,-149.517,20,1.4,ml,,,,0.31,ak,ak02249ylht3,2022-04-03T09:47:16.668Z,"18 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-03T09:39:12.441Z,61.951,-149.1666,19.8,1.9,ml,,,,0.89,ak,ak02249ykkak,2022-04-03T09:48:37.126Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-03T09:36:18.128Z,35.39769745,-97.88280487,0.7361242771,2.34,ml,57,76.2775116,0.0279792808,0.8028687001,ok,ok2022gmvh,2022-04-03T22:15:03.398Z,"5 km E of Union City, Oklahoma",earthquake,1.529932781,1.356735094,,43,automatic,ok,ok
