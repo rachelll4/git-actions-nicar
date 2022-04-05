@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-05T23:26:33.600Z,35.74,-117.5468333,2.63,1.11,ml,13,94,0.08608,0.13,ci,ci39987087,2022-04-05T23:30:11.615Z,"13km WSW of Searles Valley, CA",earthquake,0.3,0.52,0.058,10,automatic,ci,ci
+2022-04-05T23:50:13.529Z,61.7882,-149.7084,35.4,1.5,ml,,,,0.59,ak,ak0224di1oo8,2022-04-05T23:52:44.003Z,"17 km ENE of Willow, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2022-04-05T23:26:33.460Z,35.7356667,-117.5435,3.27,1.11,ml,21,73,0.09118,0.1,ci,ci39987087,2022-04-05T23:48:52.149Z,"13km WSW of Searles Valley, CA",earthquake,0.17,0.91,0.064,10,reviewed,ci,ci
 2022-04-05T23:26:32.767Z,64.0396,-148.7978,0,1.5,ml,,,,1.16,ak,ak0224dhwkvl,2022-04-05T23:35:45.533Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-05T23:22:59.111Z,62.8225,-149.2899,69.7,1.6,ml,,,,0.61,ak,ak0224dhvs3x,2022-04-05T23:26:26.768Z,"58 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-05T23:12:18.570Z,35.0455,-117.6656667,0.33,1.48,ml,11,85,0.1137,0.23,ci,ci39987079,2022-04-05T23:16:11.952Z,"5km NNW of Boron, CA",quarry blast,0.74,31.61,0.132,29,automatic,ci,ci
+2022-04-05T23:12:18.470Z,35.0385,-117.6756667,-0.78,1.47,ml,22,70,0.1052,0.19,ci,ci39987079,2022-04-05T23:46:00.136Z,"5km NNW of Boron, CA",quarry blast,0.47,31.61,0.115,26,reviewed,ci,ci
 2022-04-05T22:39:48.182Z,62.4682,-151.6545,95.3,1.8,ml,,,,0.51,ak,ak0224dhdyui,2022-04-05T22:43:14.477Z,"45 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-05T22:39:02.900Z,17.9066666666667,-66.9443333333333,13.14,1.35,md,4,261,,0.09,pr,pr71343503,2022-04-05T22:58:38.390Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.79,1.44,0.112346565627881,2,reviewed,pr,pr
 2022-04-05T22:24:54.730Z,19.2116661071777,-155.440170288086,34.8699989318848,1.86000001,md,35,130,,0.100000001,hv,hv72974637,2022-04-05T22:28:05.170Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.72,1.14999998,0.639999986,7,automatic,hv,hv
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T00:08:49.530Z,38.8238333,-122.8028333,2.56,0.23,md,24,57,0.005673,0.02,nc,nc73714401,2022-04-05T17:15:16.448Z,"7km NW of The Geysers, CA",earthquake,0.23,0.53,0.302,2,reviewed,nc,nc
 2022-04-05T00:05:22.100Z,19.1669998168945,-155.473831176758,35.9500007629395,1.87,md,28,206,,0.140000001,hv,hv72973597,2022-04-05T00:08:37.860Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.13999999,1.41999996,6,automatic,hv,hv
 2022-04-05T00:01:36.600Z,38.7695,-122.7368333,1.11,1.31,md,17,70,0.01224,0.03,nc,nc73714331,2022-04-05T18:54:15.077Z,"2km ESE of The Geysers, CA",earthquake,0.16,0.29,0.004,2,reviewed,nc,nc
-2022-04-04T23:42:13.150Z,33.4846667,-116.5525,7.8,0.38,ml,14,155,0.04272,0.12,ci,ci39986471,2022-04-05T00:10:36.049Z,"14km SE of Anza, CA",earthquake,0.48,0.7,0.276,10,reviewed,ci,ci
